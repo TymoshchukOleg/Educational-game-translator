@@ -1,0 +1,26 @@
+Translate - %s into ukrainian
+Enter Answer: 
+Correct!
+Incorrect!
+Correct answer is: %s
+Better luck next time
+Your Score %i.Try to hit %i, to go on the next level.
+Congratulations!!!
+Anykey next task, ESC - exit:
+Thank you for playing.
+Sentence in Ukrainian:
+Enter the missing letter in sentence:
+Your Score %i.Try to hit %i, to pass the game.
+Place %i. Name: %s. Points: %i
+Enter your name:
+Total Players:%i
+Anykey back to main menu.
+Your score - %d and your place is %d.
+Sorry!! We haven't found your score %d.
+Start game(1)
+Scoreboard(2)
+Exit(3)
+Your choice:
+Goodbye!:(
+Error try again.
+Language selection(4)

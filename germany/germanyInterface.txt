@@ -1,0 +1,26 @@
+Ubersetzen Sie - %s ins Ukrainische
+Antwort eingeben:
+Richtig!
+Falsch!
+Die richtige Antwort lautet: %s
+Viel Gluck beim nachsten Mal
+Ihre Punktzahl %i.Versuchen Sie, %i zu treffen, um zum nachsten Level zu gelangen.
+Herzliche Gluckwunsche!!!
+Anykey nachste Aufgabe, ESC - Beenden:
+Danke fur das Spiel.
+Satz auf Ukrainisch:
+Geben Sie den fehlenden Buchstaben im Satz ein:
+Ihre Punktzahl %i.Versuchen Sie, %i zu treffen, um das Spiel zu bestehen.
+Platziere %i. Name: %s. Punkte: %i
+Gib deinen Namen ein:
+Spieler insgesamt: %i
+Anykey zuruck zum Hauptmenu.
+Ihre Punktzahl - %d und Ihr Platz ist% d.
+Es tut uns leid!! Wir haben Ihre Punktzahl %d nicht gefunden.
+Spiel starten (1)
+Anzeigetafel (2)
+Ausfahrt (3)
+Deine Entscheidung:
+Auf Wiedersehen!:(
+Fehler, versuche es erneut.
+Sprachauswahl (4)

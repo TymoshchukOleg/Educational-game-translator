@@ -1,0 +1,12 @@
+katze
+кіт
+hund
+пес
+ratte
+пацюк
+pferd
+кінь
+vogel
+птах
+fliege
+муха

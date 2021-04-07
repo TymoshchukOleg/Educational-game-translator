@@ -1,0 +1,26 @@
+Traducir - %s al ucraniano.
+Ingrese la respuesta:
+Correcto!
+Incorrecto!
+La respuesta correcta es: %s.
+Mejor suerte la proxima vez
+Tu puntaje %i. Intenta presionar %i para pasar al siguiente nivel.
+Felicidades!
+Anykey siguiente tarea, ESC - salir:
+Gracias por jugar.
+Oracion en ucraniano:
+Ingrese la letra que falta en la oracion:
+Tu puntuacion %i. Intenta presionar %i para pasar el juego.
+Coloque %i. Nombre: %s. Puntos: %i.
+Introduzca su nombre:
+Jugadores totales: %i.
+Cualquier tecla para volver al menu principal.
+Tu puntuacion - %d y tu lugar es %d.
+Lo siento!! No hemos encontrado tu puntuación %d.
+Iniciar juego(1)
+Marcador(2)
+Salida(3)
+Tu eleccion:
+Adios:(
+Error intente de nuevo.
+Seleccion de idioma(4)
